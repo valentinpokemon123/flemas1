@@ -1,0 +1,14 @@
+body {background-color: aliceblue;}
+
+.card{
+
+}
+
+.contenedor{
+    display: flex;
+    margin-left: 2%;
+}
+
+img{
+    height: 250px;
+}
